@@ -5,8 +5,8 @@
         "_type": "block",
         "_classes": "",
         "title": "title",
-        "displayTitle": "",
-        "body": "",
+        "displayTitle": "Block Title",
+        "body": "Block Body",
         "_trackingId": 17
     },
     {

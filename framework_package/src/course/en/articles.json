@@ -5,16 +5,16 @@
         "_type": "article",
         "_classes": "",
         "title": "title",
-        "displayTitle": "",
-        "body": ""
+        "displayTitle": "Presentation Components",
+        "body": "Article Body"
     },
     {
         "_id": "a-10",
-        "_parentId": "co-10",
+        "_parentId": "co-05",
         "_type": "article",
         "_classes": "",
         "title": "title",
-        "displayTitle": "",
+        "displayTitle": "Question Components",
         "body": ""
     },
     {

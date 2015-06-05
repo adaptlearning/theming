@@ -4,31 +4,12 @@
         "_parentId": "course",
         "_type": "page",
         "_classes": "",
-        "title": "Presentation Components",
-        "displayTitle": "Presentation Components",
+        "title": "Components",
+        "displayTitle": "Components",
         "body": "Find out what presentation components are available within the core bundle and how you might consider using them within your courses. ",
         "_graphic": {
             "alt": "This is a picture of Adapt's origami birds.",
             "src": "course/en/images/origami-menu-one.jpg"
-        },
-        "linkText": "View",
-        "durationLabel":"Duration:",
-        "duration": "2 mins",
-        "_pageLevelProgress": {
-            "_isEnabled": true
-        }
-    },
-    {
-        "_id": "co-10",
-        "_parentId": "course",
-        "_type": "page",
-        "_classes": "",
-        "title": "Question Components",
-        "displayTitle": "Question Components",
-        "body": "Discover what question components are available within the framework, along with some tips on how to use them.",
-        "_graphic": {
-            "alt": "This is a picture of Adapt's origami birds.",
-            "src": "course/en/images/origami-menu-two.jpg"
         },
         "linkText": "View",
         "durationLabel":"Duration:",
