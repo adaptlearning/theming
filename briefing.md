@@ -25,9 +25,7 @@ Lists [all the Variables](https://docs.google.com/spreadsheets/d/1l_heeNCofdAEqE
 - Colors.less (done)
 - Paddings.less (done)
 - Fonts.less (done)
-  - How to handle other Vars?
-  - E.g. device-width
-  - E.g. Border-width
+- Generic.less (done)
 
 ### Update Styling based on AD:
 - Navigation Bar (adapt_basic_menu.jpg)
